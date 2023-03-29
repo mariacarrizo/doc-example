@@ -11,5 +11,5 @@ Welcome to test project's documentation!
    :caption: Contents:
 
    feature-a.md
-
+   feature-b.md
 
